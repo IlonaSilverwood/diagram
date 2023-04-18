@@ -23,8 +23,8 @@ line option.
 ### Quarto
 
 While it is possible to use this filter with Quarto, it is not
-encouraged. Quarto comes its own system for diagram generation,
-and that should be used instead.
+encouraged. Quarto comes with its own system for diagram generation,
+use that instead.
 
 ### R Markdown
 
